@@ -1,0 +1,19 @@
+1. Explain the key features of Python and why it is considered a high-level language.
+   
+2. Discuss the significance of Python's standard library and give examples of commonly used modules.
+   
+3. Describe the different programming paradigms supported by Python and provide examples for each.
+
+4. Explain how Python handles indentation and why it is important for code readability and structure.
+   
+5. Compare and contrast Python's built-in data structures: lists, tuples, dictionaries, and sets. Provide use cases for each.
+   
+6. What does it mean for functions to be "first-class citizens" in Python? How does this feature benefit code design?
+
+7. Describe the exception handling mechanism in Python. How do 'try', 'except', and 'finally' blocks work?
+
+8. What are some popular third-party libraries in Python, and what are their primary use cases?
+
+9. Explain the role of Python in web development and artificial intelligence. What frameworks are commonly used in these domains?
+
+10. Discuss how Python's versatility and ecosystem have contributed to its widespread adoption in industries such as data science, automation, and scientific computing.
