@@ -94,13 +94,8 @@ python main.py
 4. Print out the common words between the two texts.
 ## Example Output
 ```bash
-
-Recording audio segment 1...
-Recording audio segment 2...
-Recording audio segment 3...
-
-Number of common words: 5
-Common words: {'Python', 'functions', 'library', 'data', 'structures'}
+Number of common words: 12
+Common words: {'standard', 'supported', 'significance', 'tuples', 'library', 'contrast', 'examples', 'Python', 'give', 'data', 'structures', 'provide'}
 ```
 This output shows how many words were shared between the recorded transcript and the exam questions. In this case, words like "Python," "functions," and "data" appear in both the transcribed speech and the exam questions.
 
